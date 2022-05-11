@@ -14,4 +14,6 @@
 <br>
 007_Rearrange_Table = https://leetcode.com/problems/rearrange-products-table/
 <br>
-008_Floower_Count = https://leetcode.com/problems/find-followers-count/
+008_Follower_Count = https://leetcode.com/problems/find-followers-count/
+<br>
+009_Leads_Partners = https://leetcode.com/problems/daily-leads-and-partners/
