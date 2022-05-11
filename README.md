@@ -9,3 +9,5 @@
 004_employee-missing-info = https://leetcode.com/problems/employees-with-missing-information/
 <br>
 005_Latest_Login = https://leetcode.com/problems/the-latest-login-in-2020/
+<br>
+006_Special_Bonus = https://leetcode.com/problems/calculate-special-bonus/
