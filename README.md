@@ -19,3 +19,5 @@
 009_Leads_Partners = https://leetcode.com/problems/daily-leads-and-partners/
 <br>
 010_Tree_Node = https://leetcode.com/problems/tree-node/
+<br>
+100_Exchange_Seats = https://leetcode.com/problems/exchange-seats/
