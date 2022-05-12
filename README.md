@@ -23,3 +23,5 @@
 011_Exchange_Seats = https://leetcode.com/problems/exchange-seats/
 <br>
 012_Manager_Of_Largest_Department = https://platform.stratascratch.com/coding/2060-manager-of-the-largest-department?code_type=1
+<br>
+014_Highest_Cost_Orders = https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1
