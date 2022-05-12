@@ -21,3 +21,5 @@
 010_Tree_Node = https://leetcode.com/problems/tree-node/
 <br>
 011_Exchange_Seats = https://leetcode.com/problems/exchange-seats/
+<br>
+012_Manager_Of_Largest_Department = https://platform.stratascratch.com/coding/2060-manager-of-the-largest-department?code_type=1
