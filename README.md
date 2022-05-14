@@ -27,3 +27,5 @@
 014_Highest_Cost_Orders = https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1
 <br>
 015_Finding_User_Purchases = https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=3
+<br>
+016_Best_Selling_Item = https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=3
